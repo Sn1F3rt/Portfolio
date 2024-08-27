@@ -19,7 +19,7 @@
 
 ## About
 
-This repository contains the source code for my personal portfolio website. The application is built using `Quart` and `Jinja2` for the backend and `Bootstrap` for the frontend.
+This repository contains the source code for my personal portfolio website. The application is built using `Quart` for the backend and `Jinja2` for the frontend.
 
 ## Prerequisites
 
